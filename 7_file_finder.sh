@@ -1,0 +1,1 @@
+sh 7_file_finder.sh <расширение>

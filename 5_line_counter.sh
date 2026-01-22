@@ -1,0 +1,1 @@
+sh 5_line_counter.sh <имя_файла>

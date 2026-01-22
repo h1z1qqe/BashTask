@@ -1,0 +1,1 @@
+sh 6_password_generator.sh
